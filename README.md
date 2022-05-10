@@ -16,4 +16,4 @@
 
 > My projects for Github.
 
-**·** [Demo: Getting Started C++](https://github.com/All-things-equal/Study_with_cpp)
+__*__ [Demo: Getting Started C++](https://github.com/All-things-equal/Study_with_cpp)
