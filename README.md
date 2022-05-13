@@ -1,6 +1,7 @@
 #### Hello World!
 
-
+---
+---
 
 ```plantuml
 @startmindmap
@@ -12,11 +13,12 @@
 @endmindmap
 ```
 
-
+---
 
 > My projects for Github.
 
 - [Demo: Getting Started C++](https://github.com/All-things-equal/Study_with_cpp)
 
-
+***
+***
 > /* ------ END ------ */
