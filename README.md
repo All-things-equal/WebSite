@@ -17,7 +17,7 @@
 
 > My projects for Github.
 
-- [Demo: Getting Started C++](https://github.com/All-things-equal/Study_with_cpp)
+- [Demo: Fast Getting Started C++](https://github.com/All-things-equal/Fast_Getting_Started_C-Plus-Plus)
 
 ***
 ***
