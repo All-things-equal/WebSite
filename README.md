@@ -1,6 +1,7 @@
 #### Hello World!
 
 ---
+
 ---
 
 ```plantuml
@@ -21,5 +22,8 @@
 
 - [Demo: Getting Started -- data structure](https://github.com/All-things-equal/Getting_Started_Data-Structure)
 
-***
-> /* ------ END ------ */
+- [Demo: STC89C52RC -- Modules Example](https://github.com/All-things-equal/STC89C52RC_Modules_TestExample)
+
+---
+
+> /_ ------ END ------ _/
