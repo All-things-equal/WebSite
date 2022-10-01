@@ -14,7 +14,7 @@
 @endmindmap
 ```
 
-```git bash
+```bash
 # local shell
 git checkout -b dev-feature
 git add changed_file
