@@ -14,6 +14,29 @@
 @endmindmap
 ```
 
+```git bash
+# local shell
+git checkout -b dev-feature
+git add changed_file
+git commit -m "Update feature"
+git push origin dev-feature
+git checkout master
+git pull origin master
+git checkout dev-feature
+git rebase master
+git push -f origin dev-feature
+
+# remote repository
+New pull request
+Squash and merge
+delete branch
+
+# local shell
+git checkout master
+git branch -D dev-feature
+git pull origin master
+```
+
 ---
 
 > My projects for Github.
