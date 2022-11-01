@@ -24,6 +24,8 @@
 
 - [Demo: STC89C52RC -- Modules Example](https://github.com/All-things-equal/STC89C52RC_Modules_TestExample)
 
+- [Demo: Getting Started -- Go language](https://github.com/All-things-equal/Getting-Started_Go)
+
 ---
 
 > /_ ------ END ------ _/
