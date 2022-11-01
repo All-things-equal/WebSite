@@ -18,7 +18,7 @@
 # local shell
 git checkout -b dev-feature
 git add <changed_file>
-git commit -S -m "Update commit message"
+git commit <-S> -m "Update commit message"
 git push origin dev-feature
 git checkout master
 git pull origin master
@@ -41,7 +41,7 @@ git pull origin master
 # local shell
 git checkout -b dev-feature
 git add <changed_file>
-git commit -S -m "Update commit message"
+git commit <-S> -m "Update commit message"
 git checkout master
 git pull origin master
 git checkout dev-feature
